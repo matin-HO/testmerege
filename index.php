@@ -1,0 +1,4 @@
+<?php
+$users =["sara","ali"];
+
+?>
